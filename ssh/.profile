@@ -1,0 +1,4 @@
+clear
+neofetch
+clear
+running
