@@ -14,6 +14,7 @@ chmod +x .bashrc
 cd /usr/bin
 rm -rf menu
 rm -rf updatesc
+
 wget -O menu "https://raw.githubusercontent.com/ayahost/schost/main/update/menu-u.sh"
 wget -O updatesc "https://raw.githubusercontent.com/ayahost/schost/main/update/updatesc.sh"
 
