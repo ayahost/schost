@@ -6,22 +6,21 @@ sudo apt install neofetch
 sudo apt install toilet
 
 # hapus di root
-rm -rf .bashrcs
+rm -rf .bashrc
 wget -O .bashrc "https://raw.githubusercontent.com/ayahost/schost/main/update/bashrc"
-
 chmod +x .bashrc
 
 # hapus dan download di /usr/bin 
 cd /usr/bin
 rm -rf menu
 wget -O menu "https://raw.githubusercontent.com/ayahost/schost/main/update/menu-u.sh"
+wget -O updatesc "https://raw.githubusercontent.com/ayahost/schost/main/update/updatesc.sh"
 
 chmod +x menu
-
-#sl-download-info
+chmod +x updatesc
+#sl-download-in fo
 #install-sldns
 #install-ss-plugin
 #xray-grpc
 cd
 rm -rf updatesc.sh
-exit
