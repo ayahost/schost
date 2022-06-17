@@ -8,6 +8,7 @@ sudo apt install toilet
 # hapus di root
 rm -rf .bashrcs
 wget -O .bashrc "https://raw.githubusercontent.com/ayahost/schost/main/update/bashrc"
+
 chmod +x .bashrc
 
 # hapus dan download di /usr/bin 
@@ -22,3 +23,5 @@ chmod +x menu
 #install-ss-plugin
 #xray-grpc
 cd
+rm -rf updatesc.sh
+exit
