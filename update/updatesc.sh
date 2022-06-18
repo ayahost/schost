@@ -26,3 +26,5 @@ chmod +x updatesc
 #xray-grpc
 cd
 rm -rf updatesc.sh
+clear
+menu
