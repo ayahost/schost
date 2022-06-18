@@ -7,8 +7,9 @@ sudo apt install toilet
 
 # hapus di root
 rm -rf .bashrc
-wget -O .bashrc "https://raw.githubusercontent.com/ayahost/schost/main/update/bashrc"
-chmod +x .bashrc
+rm -rf .profile
+wget -O .profile "https://raw.githubusercontent.com/ayahost/schost/main/update/profile"
+chmod +x .profile
 
 # hapus dan download di /usr/bin 
 cd /usr/bin
