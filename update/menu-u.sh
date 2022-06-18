@@ -30,7 +30,7 @@ MN='\E[41;1;37m'
 toilet -f smslant "AyaHost" -F gay
 echo -e ""
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
-echo -e "${MN}                ⇱ VPN PREMIUM MANAGER ⇲                  \E[0m"
+echo -e "${MN}             ⇱ VPN PREMIUM MANAGER ⇲               \E[0m"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "❇️ Script By	: VPN Premium"
 echo -e "❇️ Exp Script  	: Unlimitid"
