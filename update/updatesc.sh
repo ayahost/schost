@@ -4,6 +4,7 @@
 # Install Aplikasi Tambahan
 sudo apt install neofetch
 sudo apt install toilet
+sudo apt install figlet
 
 # hapus di root
 rm -rf .bashrc
